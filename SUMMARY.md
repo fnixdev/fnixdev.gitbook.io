@@ -1,6 +1,6 @@
 # Table of contents
 
-* [KannaX - Inicio](README.md)
+* [KannaX - Userbot](README.md)
 
 ## Variáveis Necessárias para KannaX
 
