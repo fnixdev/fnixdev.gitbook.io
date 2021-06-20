@@ -1,0 +1,2 @@
+# OWNER\_ID e BOT\_TOKEN
+

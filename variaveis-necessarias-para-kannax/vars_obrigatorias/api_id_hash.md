@@ -1,0 +1,2 @@
+# API\_ID e API\_HASH
+
