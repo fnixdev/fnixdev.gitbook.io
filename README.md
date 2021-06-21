@@ -4,11 +4,3 @@
 
 #### KannaX é um UserBot do Telegram escrito em Python usando o [Pyrogram](https://github.com/pyrogram) baseado em [USERGE-X](https://github.com/code-rgb/USERGE-X) pelo qual você pode automatizar sua conta do Telegram para funcionar como você deseja. Ele vem com recursos salientes e descritivos que o ajudam a gerenciar sua tarefa com alguns comandos fáceis.
 
-### Créditos pelo Projeto
-
-* [USERGE-X](https://github.com/code-rgb/USERGE-X)
-* [Pyrogram Assistant](https://github.com/pyrogram/assistant)
-* [PyroGramBot](https://github.com/SpEcHiDe/PyroGramBot)
-* [PaperPlane](https://github.com/RaphielGang/Telegram-Paperplane)
-* [Uniborg](https://github.com/SpEcHiDe/UniBorg)
-

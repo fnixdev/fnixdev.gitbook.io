@@ -12,3 +12,10 @@
   * [OWNER\_ID e BOT\_TOKEN](variaveis-necessarias-para-kannax/vars_obrigatorias/ownerid_bottoken.md)
 * [VARs Opcionais](variaveis-necessarias-para-kannax/vars_opcionais.md)
 
+## Instalação/Deploy
+
+* [Métodos de Instalação](instalacao-deploy/metodos/README.md)
+  * [Heroku](instalacao-deploy/metodos/deploy_heroku.md)
+  * [Local / VPS](instalacao-deploy/metodos/deploy_local.md)
+  * [Termux](instalacao-deploy/metodos/deploy_termux.md)
+
