@@ -7,9 +7,13 @@ description: >-
 
 # 1. DATABASE\_URL
 
+```text
+DATABASE_URL
+```
+
 ## **1. Criando Cluster**
 
-* Primeiro, abra o site MongoDB e crie uma conta clicando em `"try MongoDB now"` , inscreva-se com Google torna isso mais fácil. ; \)
+* Primeiro, abra o site [MongoDB ](https://www.mongodb.com/)e crie uma conta clicando em `"try MongoDB now"` , inscreva-se com Google torna isso mais fácil. ; \)
 * Em seguida, clique no plano de cluster gratuito, escolha o provedor de nuvem e escolha a região e clique em`"create cluster"`
 
 Se você deseja implantar no Heroku, escolha "AWS" e na região escolha "U.S." , caso contrário, escolha a região mais próxima de onde você está implantando.
