@@ -1,3 +1,7 @@
+---
+description: VARs obrigatórias para o uso correto do bot.
+---
+
 # VARs Obrigatórias
 
 {% page-ref page="database.md" %}
