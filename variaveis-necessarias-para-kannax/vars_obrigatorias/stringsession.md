@@ -7,6 +7,10 @@ description: >-
 
 # 3. HU\_STRING\_SESSION
 
+```text
+HU_STRING_SESSION
+```
+
 ## 1. REPL <a id="1-repl-method"></a>
 
 * Acesse o [Gerador de SessionString](https://replit.com/@fnixdev/StringSessionKX).
