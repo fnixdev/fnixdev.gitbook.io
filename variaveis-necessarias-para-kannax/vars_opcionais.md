@@ -1,4 +1,13 @@
+---
+description: VARs adicionais para o bot
+---
+
 # VARs Opcionais
+
+## Definindo as VARs.
+
+* **Heroku:** pelo bot use ****`.setvar LOAD_UNOFFICIAL_PLUGINS true`
+* **Local:** edite o arquivo `config.env` 
 
 #### Defina false se você não gosta de usar plug-ins extras
 
