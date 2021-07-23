@@ -46,9 +46,7 @@ pip3 install -r requirements.txt
 cp config.env.sample config.env
 ```
 
-**5. Obtenha a Session String e adicione-a ao config.env**
-
-* Ou voce pode usar [REPL](https://replit.com/@fnixdev/StringSessionKX) para obter a string.
+**5. Obtenha a Session String** [**AQUI**](https://replit.com/@fnixdev/StringSessionKX) **e adicione-a ao config.env**
 
 **6. Finalmente execute o KannaX.**
 
