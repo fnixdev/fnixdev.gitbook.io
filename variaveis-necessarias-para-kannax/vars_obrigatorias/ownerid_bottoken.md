@@ -4,13 +4,19 @@
 
 * Adicione sua ID de usuário em OWNER\_ID , se você quiser controlar o bot com várias contas \(o mesmo que sudo, mas terá todas as permissões\), adicione as IDs da conta com espaçamento.
 
-Para Multiplos Owners, o primeiro será o principal.
+{% hint style="info" %}
+
+
+#### Para Multiplos Owners, o primeiro será o principal.
 
 > **e.x.** OWNER\_ID 123456787 `# para usuario unico`
 >
 > **OU**
 >
 > OWNER\_ID 123456787 123456788 123456789 `# para 3 usuarios ID1 ID2 ID3`
+{% endhint %}
+
+
 
 ## 2. Bot Token <a id="2-bot-token"></a>
 
