@@ -1,126 +1,126 @@
 # VARs Opcionais
 
-#### \# Defina false se você não gosta de usar plug-ins extras
+#### Defina false se você não gosta de usar plug-ins extras
 
 `LOAD_UNOFFICIAL_PLUGINS=true`
 
-#### \# É melhor se você quiser adicionar seus próprios plug-ins
+#### É melhor se você quiser adicionar seus próprios plug-ins
 
-#### \# privado / público ambos os repositórios são suportados
+#### privado / público ambos os repositórios são suportados
 
-#### \# Faça fork da pagina [KannaX-Plugins](https://github.com/fnixdev/KannaX-Plugins) e adicione seus plugins
+#### Faça fork da pagina [KannaX-Plugins](https://github.com/fnixdev/KannaX-Plugins) e adicione seus plugins
 
 `CUSTOM_PLUGINS_REPO=false`
 
-#### \# Contagem de trabalhadores do Userbot : Default = cpu\_count + 4
+#### Contagem de trabalhadores do Userbot : Default = cpu\_count + 4
 
 `WORKERS`
 
-#### \# Googel Drive API Keys de https://console.developers.google.com/
+#### Googel Drive API Keys de https://console.developers.google.com/
 
 `G_DRIVE_CLIENT_ID`
 
 `G_DRIVE_CLIENT_SECRET`
 
-#### \# \# Defina como true se for TeamDrive
+#### Defina como true se for TeamDrive
 
 G\_DRIVE\_IS\_TD=false
 
-#### \# Index link do gdrive
+#### Index link do gdrive
 
 `G_DRIVE_INDEX_LINK`
 
-#### \# Defina o nome para o seu diretório de trabalho
+#### Defina o nome para o seu diretório de trabalho
 
 `DOWN_PATH="downloads/"`
 
-#### \# Your Languge \( ex: if english =&gt; 'en' \)
+#### Your Languge \( ex: if english =&gt; 'en' \)
 
 `PREFERRED_LANGUAGE="pt"`
 
-#### \# obter chave API de 'https://free.currencyconverterapi.com/'
+#### Obter chave API de 'https://free.currencyconverterapi.com/'
 
 `CURRENCY_API`
 
-#### \# obter a chave API para o módulo OCR 'http://eepurl.com/bOLOcf'
+#### Obter a chave API para o módulo OCR 'http://eepurl.com/bOLOcf'
 
 `OCR_SPACE_API_KEY`
 
-#### \# adicionar cidade padrão para o clima
+#### Adicionar cidade padrão para o clima
 
 `WEATHER_DEFCITY`
 
-#### \# SpamWatch API pode ser obtido em @SpamWatch no Telegram
+#### SpamWatch API pode ser obtido em @SpamWatch no Telegram
 
 `SPAM_WATCH_API`
 
-#### \# API do tempo pode ser obtida em 'https://openweathermap.org/'
+#### API do tempo pode ser obtida em 'https://openweathermap.org/'
 
 `OPEN_WEATHER_MAP`
 
-#### \# RemoveBg API Key obtê-lo em 'https://www.remove.bg/api'
+#### RemoveBg API Key obtê-lo em 'https://www.remove.bg/api'
 
 `REMOVE_BG_API_KEY`
 
-#### \# GDrive ID da pasta
+#### GDrive ID da pasta
 
 `G_DRIVE_PARENT_ID`
 
-#### \# definir prefixo de comando
+####  Definir prefixo de comando
 
 `CMD_TRIGGER="."`
 
-#### \# definir prefixo de comando para usuários SUDO
+#### Definir prefixo de comando para usuários SUDO
 
 `SUDO_TRIGGER="!"`
 
-#### \# defina isso para seu fork KannaX no GitHub
+#### Defina isso para seu fork KannaX no GitHub
 
 `UPSTREAM_REPO`
 
-#### \# único caractere para o progresso concluído
+#### Unico caractere para o progresso concluído
 
 `FINISHED_PROGRESS_STR='█'`
 
-#### \# caractere único para progresso inacabado
+#### Caractere único para progresso inacabado
 
 `UNFINISHED_PROGRESS_STR='░'`
 
-#### \# nome personalizado para o seu pacote de adesivos
+#### Nome personalizado para o seu pacote de adesivos
 
 `CUSTOM_PACK_NAME`
 
-#### \# defina sua própria mídia personalizada para bot pm
+#### Defina sua própria mídia personalizada para bot pm
 
 `BOT_MEDIA`
 
-#### \# Para Spotify Music Auto Bio, obtenha seu ID de client e secret do Spotify em
+#### Para Spotify Music Auto Bio, obtenha seu ID de client e secret do Spotify em
 
-#### \# \(https://developer.spotify.com/dashboard\)
+#### \(https://developer.spotify.com/dashboard\)
 
 `SPOTIFY_CLIENT_ID`
 
 `SPOTIFY_CLIENT_SECRET`
 
-#### \# Nsfw Detect API Key para obtê-lo em https://deepai.org/dashboard/profile 
+#### Nsfw Detect API Key para obtê-lo em https://deepai.org/dashboard/profile 
 
 `DEEP_AI`
 
-#### \# Link de alive personalizado \(coloque um link Imgur ou Telegraph aqui\)
+#### Link de alive personalizado \(coloque um link Imgur ou Telegraph aqui\)
 
 `ALIVE_MEDIA`
 
-#### \# Para gen\_memes.py 
+#### Para gen\_memes.py 
 
-#### \# Pegue de https://imgflip.com/ criando uma conta gratuita
+#### Pegue de https://imgflip.com/ criando uma conta gratuita
 
-#### \# e não se esqueça de verificar seu endereço de e-mail e copiar o nome de usuário e a senha.
+#### E não se esqueça de verificar seu endereço de e-mail e copiar o nome de usuário e a senha.
 
 `IMGFLIP_ID`
 
 `IMGFLIP_PASS`
 
-#### \# LastFM username e api key
+#### LastFM username e api key
 
 `LASTFM_USERNAME`
 
