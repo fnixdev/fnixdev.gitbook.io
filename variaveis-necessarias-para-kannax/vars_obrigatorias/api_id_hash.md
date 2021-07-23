@@ -1,5 +1,19 @@
 # 2. API\_ID & API\_HASH
 
+{% tabs %}
+{% tab title="ID" %}
+```text
+API_ID 
+```
+{% endtab %}
+
+{% tab title="HASH" %}
+```text
+API_HASH
+```
+{% endtab %}
+{% endtabs %}
+
 Para obter um ID de API e desenvolver seu próprio aplicativo usando a API do Telegram, você precisa fazer o seguinte:
 
 * Inscreva-se no Telegram usando qualquer aplicativo.
