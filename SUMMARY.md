@@ -19,3 +19,7 @@
   * [Local/VPS](instalacao-deploy/metodos/deploy_local.md)
   * [Termux](instalacao-deploy/metodos/deploy_termux.md)
 
+---
+
+* [Conclusão](conclusao.md)
+
