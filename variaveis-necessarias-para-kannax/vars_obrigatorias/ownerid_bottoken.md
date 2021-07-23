@@ -1,5 +1,19 @@
 # 6. OWNER\_ID & BOT\_TOKEN
 
+{% tabs %}
+{% tab title="OWNER" %}
+```text
+OWNER_ID 
+```
+{% endtab %}
+
+{% tab title="BOT" %}
+```text
+BOT_TOKEN
+```
+{% endtab %}
+{% endtabs %}
+
 ## 1. Owner ID <a id="1-owner-id"></a>
 
 * Adicione sua ID de usuário em OWNER\_ID , se você quiser controlar o bot com várias contas \(o mesmo que sudo, mas terá todas as permissões\), adicione as IDs da conta com espaçamento.
