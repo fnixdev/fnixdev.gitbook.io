@@ -9,7 +9,7 @@
   * [2. API\_ID & API\_HASH](variaveis-necessarias-para-kannax/vars_obrigatorias/api_id_hash.md)
   * [3. HU\_STRING\_SESSION](variaveis-necessarias-para-kannax/vars_obrigatorias/stringsession.md)
   * [LOG\_CHANNEL\_ID](variaveis-necessarias-para-kannax/vars_obrigatorias/log_channel.md)
-  * [OWNER\_ID e BOT\_TOKEN](variaveis-necessarias-para-kannax/vars_obrigatorias/ownerid_bottoken.md)
+  * [6. OWNER\_ID & BOT\_TOKEN](variaveis-necessarias-para-kannax/vars_obrigatorias/ownerid_bottoken.md)
 * [VARs Opcionais](variaveis-necessarias-para-kannax/vars_opcionais.md)
 
 ## Instalação/Deploy
