@@ -20,15 +20,13 @@ Se você deseja implantar no Heroku, escolha "AWS" e na região escolha "U.S." ,
 
 ## **2. Network Access** <a id="2-network-access"></a>
 
-* Va para **Network Access** na guia **DATA STORAGE** clique no botão `"add ip address"` selecione `"allow access from anywhere"`..
+* Va para **Network Access** na guia **SECURITY** clique no botão `"add ip address".`
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MNTQklL6f32BuRnjFuB%2F-MNTRa3jXyEGTxIFCogB%2F-MNTU-ouSpUazuXX2a88%2FScreenshot%202020-12-01%20182149.png?alt=media&token=79b97a6a-26df-4d3b-b7e4-4def5797acae)
 
-Network Access &gt; IP Access List &gt; Add IP Address
+* Agora clique em `"ALLOW ACESS FROM ANYWHERE"` e clique em Confirm.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MNTQklL6f32BuRnjFuB%2F-MNTRa3jXyEGTxIFCogB%2F-MNTZ1Dc48MovQzrhEJk%2FScreenshot%202020-12-01%20182329.png?alt=media&token=65f45339-c941-4fd6-a2c0-658a95f9de44)
-
-Allow Access from Anywhere
 
 ## 3. Configurando um Cluster <a id="3-setting-up-a-cluster"></a>
 
