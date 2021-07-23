@@ -1,12 +1,12 @@
 # Local/VPS
 
-## Requirements
+## Requisitos
 
 * Python 3.8 ou Superior
 
 ## Como Instalar
 
-#### **Metodo fácil e automatico**
+#### **Metodo fácil e automatico \(testado em Ubuntu 18.04/20.04\)**
 
 ```text
 bash <(curl -s https://fnixdev.github.io/Setup_Local_VPS.sh)
