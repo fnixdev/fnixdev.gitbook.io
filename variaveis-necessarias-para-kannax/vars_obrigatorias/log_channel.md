@@ -6,6 +6,10 @@ description: >-
 
 # LOG\_CHANNEL\_ID
 
+```text
+LOG_CHANNEL_ID
+```
+
 * Crie um **canal privado** em seu telegram.
 * Adicione Rose bot ao seu grupo @MissRose\_bot.
 * Agora, digite /id e obtenha o Chat ID.
