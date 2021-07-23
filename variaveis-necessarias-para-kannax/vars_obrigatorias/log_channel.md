@@ -15,5 +15,5 @@ LOG_CHANNEL_ID
 * Agora, digite /id e obtenha o Chat ID.
 * O seu chat ID deverá começar com  -100 ..... Se por algum motivo o ID for diferente, coloque seu grupo como publico, depois retorne para privado e digite /id novamente.
 * Copie o id com o hífen incluído \(-\) e cole em LOG\_CHANNEL\_ID Var.
-* Lembrando que você deverá adicionar seu bot ao grupo de logs
+* Lembrando que você deverá adicionar seu bot ao grupo de logs.
 
