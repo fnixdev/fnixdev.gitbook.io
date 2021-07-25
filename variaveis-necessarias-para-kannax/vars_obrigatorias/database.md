@@ -18,6 +18,10 @@ DATABASE_URL
 
 Se você deseja implantar no Heroku, escolha "AWS" e na região escolha "U.S." , caso contrário, escolha a região mais próxima de onde você está implantando.
 
+{% hint style="danger" %}
+Não use na sua senha caracteres como '`@`' ou '`:`'
+{% endhint %}
+
 ## **2. Network Access** <a id="2-network-access"></a>
 
 * Va para **Network Access** na guia **SECURITY** clique no botão `"add ip address".`
