@@ -1,4 +1,4 @@
-# 2. API\_ID & API\_HASH
+# API\_ID & API\_HASH
 
 {% tabs %}
 {% tab title="ID" %}

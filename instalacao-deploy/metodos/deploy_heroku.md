@@ -4,7 +4,7 @@ description: >-
   construir, executar e operar aplicativos inteiramente na nuvem. De graça !!
 ---
 
-# 1. Heroku
+# Heroku
 
 ​[​![Deploy](https://www.herokucdn.com/deploy/button.svg)​](https://heroku.com/deploy?template=https://github.com/fnixdev/KannaX-Deploy)​
 

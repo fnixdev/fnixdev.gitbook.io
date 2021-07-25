@@ -5,7 +5,7 @@ description: >-
   cria uma sessão de cordas.
 ---
 
-# 3. HU\_STRING\_SESSION
+# HU\_STRING\_SESSION
 
 ```text
 HU_STRING_SESSION

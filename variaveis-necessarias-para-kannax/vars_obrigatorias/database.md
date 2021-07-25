@@ -5,7 +5,7 @@ description: >-
   opcionais.
 ---
 
-# 1. DATABASE\_URL
+# DATABASE\_URL
 
 ```text
 DATABASE_URL

@@ -1,4 +1,4 @@
-# 6. OWNER\_ID & BOT\_TOKEN
+# OWNER\_ID & BOT\_TOKEN
 
 {% tabs %}
 {% tab title="OWNER" %}
