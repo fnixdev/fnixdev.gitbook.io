@@ -11,6 +11,7 @@
   * [LOG\_CHANNEL\_ID](variaveis-necessarias-para-kannax/vars_obrigatorias/log_channel.md)
   * [OWNER\_ID & BOT\_TOKEN](variaveis-necessarias-para-kannax/vars_obrigatorias/ownerid_bottoken.md)
 * [VARs Opcionais](variaveis-necessarias-para-kannax/vars_opcionais/README.md)
+  * [LASTFM\_API\_KEY & USER](variaveis-necessarias-para-kannax/vars_opcionais/lastfm.md)
   * [G\_DRIVE\_CLIENT\_ID & G\_DRIVE\_CLIENT\_SECRET](variaveis-necessarias-para-kannax/vars_opcionais/g_drive_client_id-and-g_drive_client_secret.md)
   * [ALIVE\_MEDIA](variaveis-necessarias-para-kannax/vars_opcionais/alive_media.md)
   * [CUSTOM\_PACK\_NAME](variaveis-necessarias-para-kannax/vars_opcionais/custom_pack_name.md)
