@@ -10,10 +10,13 @@ description: >-
 LOG_CHANNEL_ID
 ```
 
-* Crie um **grupo** **privado** em seu telegram.
-* Adicione [Rose ](https://t.me/MissRose_bot)bot ao seu grupo [@MissRose\_bot](https://t.me/MissRose_bot).
+{% hint style="warning" %}
+**Lembrando que você deve adicionar seu bot ao canal de logs antes de tudo.**
+{% endhint %}
+
+* Crie um **canal privado** em seu telegram.
+* Adicione [Rose ](https://t.me/MissRose_bot)bot ao seu canal [@MissRose\_bot](https://t.me/MissRose_bot).
 * Agora, digite /id e obtenha o Chat ID.
-* O seu chat ID deverá começar com  -100 ..... Se por algum motivo o ID for diferente, coloque seu grupo como publico, depois retorne para privado e digite /id novamente.
+* O seu chat ID deverá começar com  -100 ..... Se por algum motivo o ID for diferente, coloque seu canal como publico, depois retorne para privado e digite /id novamente.
 * Copie o id com o hífen incluído \(-\) e cole em LOG\_CHANNEL\_ID Var.
-* Lembrando que você deverá adicionar seu bot ao grupo de logs.
 
