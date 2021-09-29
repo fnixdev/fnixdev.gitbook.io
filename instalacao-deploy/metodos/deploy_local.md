@@ -6,10 +6,16 @@
 
 ## Como Instalar
 
-#### **Metodo fácil e automatico \(testado em Ubuntu 18.04/20.04\)**
+#### **Script para Ubuntu.**
 
-```text
-bash <(curl -s https://fnixdev.github.io/Setup_Local_VPS.sh)
+```bash
+bash <(curl -s https://raw.githubusercontent.com/fnixdev/KannaX/master/resources/scripts/ubuntu.sh)
+```
+
+#### Script para Arch.
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/fnixdev/KannaX/master/resources/scripts/arch.sh)
 ```
 
 #### **Método manual**
@@ -17,7 +23,7 @@ bash <(curl -s https://fnixdev.github.io/Setup_Local_VPS.sh)
 **1. Instalando os pacotes**
 
 ```text
-sudo apt install tree wget2 p7zip-full jq ffmpeg wget git
+sudo apt install tree wget2 p7zip-full jq ffmpeg wget git neofetch
 ```
 
 ```text
