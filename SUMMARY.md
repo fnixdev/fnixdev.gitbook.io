@@ -23,6 +23,11 @@
   * [Local/VPS](instalacao-deploy/metodos/deploy_local.md)
   * [Termux](instalacao-deploy/metodos/deploy_termux.md)
 
+## Sobre Plugins
+
+* [KannaX Callback Decorators](sobre-plugins/callbacks.md)
+* [Exemplos](sobre-plugins/exemplos.md)
+
 ---
 
 * [Conclusão](conclusao.md)
