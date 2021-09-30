@@ -25,8 +25,8 @@
 
 ## Sobre Plugins
 
-* [KannaX Callback Decorators](sobre-plugins/callbacks.md)
 * [Exemplos](sobre-plugins/exemplos.md)
+* [KannaX Callback Decorators](sobre-plugins/callbacks.md)
 
 ---
 
