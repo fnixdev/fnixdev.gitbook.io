@@ -30,7 +30,8 @@ So, Let’s Start
 
 ![](../../.gitbook/assets/image%20%2811%29.png)
 
-* Após voltar ao painel, clique em **`Credenciais`**
+* Vá ate "Tela de permissão do OAuth e publique o app.
+* Após isso volte ao painel e clique em **`Credenciais`**
 * Na tela de credenciais clique em **`Criar Credenciais`** e selecione **`ID do cliente OAuth`**
 
 ![](../../.gitbook/assets/image%20%287%29.png)
