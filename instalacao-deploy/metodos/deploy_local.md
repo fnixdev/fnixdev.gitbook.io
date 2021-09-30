@@ -18,7 +18,7 @@ bash <(curl -s https://raw.githubusercontent.com/fnixdev/KannaX/master/resources
 bash <(curl -s https://raw.githubusercontent.com/fnixdev/KannaX/master/resources/scripts/arch.sh)
 ```
 
-#### **Método manual**
+## Método manual
 
 **1. Instalando os pacotes**
 
