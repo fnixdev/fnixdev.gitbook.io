@@ -20,8 +20,9 @@
 
 * [Métodos de Instalação](instalacao-deploy/metodos/README.md)
   * [Heroku](instalacao-deploy/metodos/deploy_heroku.md)
-  * [Local/VPS](instalacao-deploy/metodos/deploy_local.md)
-  * [Termux](instalacao-deploy/metodos/deploy_termux.md)
+  * [Local/VPS](instalacao-deploy/metodos/deploy_local/README.md)
+    * [Ubuntu](instalacao-deploy/metodos/deploy_local/ubint.md)
+    * [Arch](instalacao-deploy/metodos/deploy_local/archin.md)
 
 ## Sobre Plugins
 

@@ -1,21 +1,11 @@
-# Local/VPS
-
-## Requisitos
-
-* Python 3.8 ou Superior
+# Ubuntu
 
 ## Como Instalar
 
 #### **Script para Ubuntu.**
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/fnixdev/KannaX/master/resources/scripts/ubuntu.sh)
-```
-
-#### Script para Arch.
-
-```bash
-bash <(curl -s https://raw.githubusercontent.com/fnixdev/KannaX/master/resources/scripts/arch.sh)
+bash <(curl -s https://raw.githubusercontent.com/fnixdev/KannaX/master
 ```
 
 ## Método manual

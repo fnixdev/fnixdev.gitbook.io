@@ -1,4 +1,0 @@
-# Termux
-
-Comming soon
-
