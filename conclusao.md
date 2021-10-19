@@ -1,6 +1,5 @@
 # Conclusão
 
-Após todos processos concluídos e mesmo assim você não conseguiu ou teve problema? Entre em contato comigo no telegram com o log completo do erro.
+Após todos processos concluídos e mesmo assim você não conseguiu ou teve problema? Envie seu log de erros no grupo suporte.
 
-&gt;&gt;  [fnixdev](https://t.me/fnixdev)
-
+{% embed url="https://t.me/kannaxsup" %}

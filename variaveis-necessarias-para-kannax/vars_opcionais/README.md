@@ -6,14 +6,20 @@ description: VARs adicionais para o bot
 
 ## Definindo as VARs.
 
-* **Heroku:** pelo bot use ****`.setvar LOAD_UNOFFICIAL_PLUGINS true`
-* **Local:** edite o arquivo `config.env` 
+* **Heroku: **pelo bot use** **`.setvar LOAD_UNOFFICIAL_PLUGINS true`
+* **Local: **edite o arquivo `config.env `
 
-{% page-ref page="g\_drive\_client\_id-and-g\_drive\_client\_secret.md" %}
+{% content-ref url="g_drive_client_id-and-g_drive_client_secret.md" %}
+[g\_drive\_client\_id-and-g\_drive\_client\_secret.md](g\_drive\_client\_id-and-g\_drive\_client\_secret.md)
+{% endcontent-ref %}
 
-{% page-ref page="alive\_media.md" %}
+{% content-ref url="alive_media.md" %}
+[alive\_media.md](alive\_media.md)
+{% endcontent-ref %}
 
-{% page-ref page="custom\_pack\_name.md" %}
+{% content-ref url="custom_pack_name.md" %}
+[custom\_pack\_name.md](custom\_pack\_name.md)
+{% endcontent-ref %}
 
 #### Defina false se você não gosta de usar plug-ins extras
 
@@ -43,7 +49,7 @@ G\_DRIVE\_IS\_TD=false
 
 `DOWN_PATH="downloads/"`
 
-#### Your Languge \( ex: if english =&gt; 'en' \)
+#### Your Languge ( ex: if english => 'en' )
 
 `PREFERRED_LANGUAGE="pt"`
 
@@ -75,7 +81,7 @@ G\_DRIVE\_IS\_TD=false
 
 `G_DRIVE_PARENT_ID`
 
-####  Definir prefixo de comando
+#### &#x20;Definir prefixo de comando
 
 `CMD_TRIGGER="."`
 
@@ -101,17 +107,17 @@ G\_DRIVE\_IS\_TD=false
 
 #### Para Spotify Music Auto Bio, obtenha seu ID de client e secret do Spotify em
 
-#### \(https://developer.spotify.com/dashboard\)
+#### (https://developer.spotify.com/dashboard)
 
 `SPOTIFY_CLIENT_ID`
 
 `SPOTIFY_CLIENT_SECRET`
 
-#### Nsfw Detect API Key para obtê-lo em https://deepai.org/dashboard/profile 
+#### Nsfw Detect API Key para obtê-lo em https://deepai.org/dashboard/profile&#x20;
 
 `DEEP_AI`
 
-#### Para gen\_memes.py 
+#### Para gen\_memes.py&#x20;
 
 #### Pegue de https://imgflip.com/ criando uma conta gratuita
 
@@ -126,4 +132,3 @@ G\_DRIVE\_IS\_TD=false
 `LASTFM_USERNAME`
 
 `LASTFM_API_KEY`
-
