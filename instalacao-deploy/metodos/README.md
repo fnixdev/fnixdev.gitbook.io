@@ -1,6 +1,9 @@
 # Métodos de Instalação
 
-{% page-ref page="deploy\_heroku.md" %}
+{% content-ref url="deploy_heroku.md" %}
+[deploy\_heroku.md](deploy\_heroku.md)
+{% endcontent-ref %}
 
-{% page-ref page="deploy\_local/" %}
-
+{% content-ref url="deploy_local/" %}
+[deploy\_local](deploy\_local/)
+{% endcontent-ref %}

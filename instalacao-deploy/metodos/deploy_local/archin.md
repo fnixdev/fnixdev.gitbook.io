@@ -5,8 +5,6 @@
 #### Script para Arch.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/fnixdev/KannaX/maste
+bash <(curl -s https://raw.githubusercontent.com/fnixdev/Kanna-X/master/resources/scripts/arch.sh
 ```
-
-
 
