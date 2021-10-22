@@ -8,6 +8,6 @@
 [deploy\_local](deploy\_local/)
 {% endcontent-ref %}
 
-{% content-ref url="railway.md" %}
-[railway.md](railway.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

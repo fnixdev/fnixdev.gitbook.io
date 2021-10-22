@@ -23,7 +23,6 @@
   * [Local/VPS](instalacao-deploy/metodos/deploy\_local/README.md)
     * [Ubuntu](instalacao-deploy/metodos/deploy\_local/ubint.md)
     * [Arch](instalacao-deploy/metodos/deploy\_local/archin.md)
-  * [Railway](instalacao-deploy/metodos/railway.md)
 
 ## Sobre Plugins
 
