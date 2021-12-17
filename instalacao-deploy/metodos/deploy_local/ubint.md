@@ -5,7 +5,7 @@
 #### **Script para Ubuntu.**
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/fnixdev/Kanna-X/master/resources/scripts/ubuntu.sh/resources/scripts/ubuntu.sh)
+bash <(curl -s https://raw.githubusercontent.com/fnixdev/Kanna-X/master/resources/scripts/ubuntu.sh)
 ```
 
 ## Método manual
