@@ -36,7 +36,7 @@ So, Let’s Start
 
 ![](<../../.gitbook/assets/image (15).png>)
 
-* Em Tipo de aplicativo, selecione **`Aplicativo da WEB`**
+* Em Tipo de aplicativo, selecione **`Aplicativo de Computador`**
 * de um nome ao seu APP e clique em criar
 
 ![](<../../.gitbook/assets/image (16).png>)
