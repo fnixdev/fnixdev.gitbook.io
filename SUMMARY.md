@@ -16,3 +16,7 @@
   * [API\_ID & API\_HASH](variables/mandatory-vars/api\_id-and-api\_hash.md)
   * [DATABASE\_URL](variables/mandatory-vars/database\_url.md)
   * [LOG\_CHANNEL\_ID](variables/mandatory-vars/log\_channel\_id.md)
+
+***
+
+* [🎀 Final Considerations](final-considerations.md)

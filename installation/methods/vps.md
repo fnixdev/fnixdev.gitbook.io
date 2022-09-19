@@ -4,25 +4,33 @@
 
 * Python (Min Version 3.8 & Max version 3.9)
 
-#### Installing Automatic
+#### Installing Automatic In Ubuntu or Variants:
 
-```
+```shell
 bash <(curl -s https://raw.githubusercontent.com/fnixdev/Hilzu/master/resources/scripts/ubuntu_install.sh)
 ```
 
 
 
+#### Installing Automatic In **Arch:**
+
+```shell
+bash <(curl -s https://raw.githubusercontent.com/fnixdev/Hilzu/master/resources/scripts/arch_install.sh)
+```
+
+****
+
 **1. Install required package**
 
-```
+```shell
 sudo apt install tree wget2 p7zip-full ffmpeg wget git neofetch mediainfo
 ```
 
-```
+```shell
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ```
 
-```
+```shell
 sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
 
