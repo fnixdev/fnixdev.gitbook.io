@@ -1,7 +1,9 @@
----
-description: Kawaii userbot telegram escrito em python baseado no USERGE-X.
----
+# ✨ Hilzu Userbot
 
-# KannaX - Userbot
 
-![](<.gitbook/assets/KannaX (2).png>)
+
+![Fast and practical userbot for telegram to make your life easier](.gitbook/assets/maxresdefault.jpg)
+
+#### Project Credits 💆‍♂️
+
+* Copyright (C) 2020 - 2022 by [UsergeTeam](https://github.com/UsergeTeam)
